@@ -1,0 +1,16 @@
+GPU available: False, used: False
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+
+  | Name         | Type | Params
+--------------------------------------
+0 | clip_model   | CLIP | 151 M 
+  | other params | n/a  | 1     
+--------------------------------------
+151 M     Trainable params
+0         Non-trainable params
+151 M     Total params
+605.109   Total estimated model params size (MB)
+Epoch 0: 100%|█████████████████| 5/5 [00:06<00:00,  0.73it/s, v_num=1]`Trainer.fit` stopped: `max_steps=5` reached.
+Epoch 0: 100%|█████████████████| 5/5 [00:10<00:00,  0.49it/s, v_num=1]
